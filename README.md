@@ -13,7 +13,7 @@ Datos Personales
   
   . Analista de Testing en Q4Tech 
 
-#Lenjuages de programación preferidos
+Lenjuages de programación preferidos
 
 . Javascript
 
