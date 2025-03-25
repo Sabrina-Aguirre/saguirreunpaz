@@ -13,7 +13,7 @@ Datos Personales
   
   . Analista de Testing en Q4Tech 
 
-Lenjuages de programación preferidos
+Lenjuages de programación que conozco
 
 . Javascript
 
@@ -22,3 +22,9 @@ Lenjuages de programación preferidos
 . Java
 
 . C#
+
+Gustos Personales
+
+. Música: Rock en general, pop y reggae.
+. APP favorita: YouTube
+. Pasatiempo favorito ver películas.
