@@ -2,7 +2,7 @@ Sabrina Aguirre
 
 Datos Personales
 
-
+![image](https://github.com/user-attachments/assets/4b32ac86-51c9-4241-8d1f-19a079d94341)
 
 
   . Edad: 31 Años
