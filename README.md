@@ -26,5 +26,7 @@ Lenjuages de programación que conozco
 Gustos Personales
 
 . Música: Rock en general, pop y reggae.
+
 . APP favorita: YouTube
+
 . Pasatiempo favorito ver películas.
