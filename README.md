@@ -11,7 +11,7 @@
 <br>. Javascript<br>
 <br>. Phyton<br>
 <br>. Java<br>
-<br>. C#<br>
+<br>. C# .NET<br>
 <br><h3>Gustos Personales<h3><br>
 <br>. Música: Rock en general, pop y reggae.<br>
 <br>. APP favorita: YouTube<br>
