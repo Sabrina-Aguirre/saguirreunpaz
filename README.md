@@ -1,6 +1,6 @@
-Sabrina Aguirre
+<h2>Sabrina Aguirre<h2>
 
-Datos Personales
+<h3>Datos Personales<h3>
 
 ![image](https://github.com/user-attachments/assets/4b32ac86-51c9-4241-8d1f-19a079d94341)
 
@@ -13,7 +13,7 @@ Datos Personales
   
   . Analista de Testing en Q4Tech 
 
-Lenjuages de programación que conozco
+<h3>Lenjuages de programación que conozco<h3>
 
 . Javascript
 
@@ -23,7 +23,7 @@ Lenjuages de programación que conozco
 
 . C#
 
-Gustos Personales
+<h3>Gustos Personales<h3>
 
 . Música: Rock en general, pop y reggae.
 
